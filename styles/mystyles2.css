@@ -1,0 +1,34 @@
+h4{
+    font-size: medium;
+}
+h5{
+    font-size: small;
+    font-weight: lighter;
+}
+h6{
+    font-size: 50%;
+    text-decoration: underline;
+    font-weight: 200;
+}
+h3{
+    font-size: 100%;
+    text-decoration: overline
+}
+li{
+    font-size: 85%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    font-weight: 300;
+    background-color: rgb(238, 164, 156);
+}
+main{
+    text-align:center
+}
+<p>{
+    text-align:center
+}
